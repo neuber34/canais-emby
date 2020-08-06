@@ -1,0 +1,7 @@
+﻿#EXTM3U
+#EXTINF: -1 tvg-id = "A&E HD" tvg-name = "A&E HD" tvg-logo = " " group-title = "Canais | Filmes e séries ", A & E HD
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tntseries_3bb18d9a_834086b209a4cfbc4ea6e99d5d6a97b340603e15/playlist.m3u8
+#EXTINF: -1 tvg-id = "AMC HD" tvg-name = "AMC HD" tvg-logo = " " group-title = "Canais | Filmes e séries ", A & E HD 
+
+#EXTINF: -1 tvg-id = "Animal Planet HD" tvg-name = "Animal Planet HD" tvg-logo = " " group-title = "Canais | Documentários "Animal Planet HD
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/globosp_cfe21c68_5bce2645eb85bc989c780f70d4ee8d84e9b3ee4f/playlist.m3u8
