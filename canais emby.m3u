@@ -1,5 +1,3 @@
 ﻿#EXTM3U
 #EXTINF: -1 tvg-id = "TNT SERIES" tvg-name = "TNT SERIES" tvg-logo = "https://cdn.mitvstatic.com/channels/br_tnt-series_m.png" group-title = "Canais | Filmes e séries", TNT SERIES
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tntseries_3bb18d9a_834086b209a4cfbc4ea6e99d5d6a97b340603e15/playlist.m3u8
-#EXTINF: -1 tvg-id = "GLOBO SP" tvg-name = "GLOBO SP" tvg-logo = "https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/3/3d/TV_Globo_SP.JPG/revision/latest/scale-to-width-down/340?cb=20140617112224" group-title = "Canais | Documentários" GLOBO SP
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/globosp_cfe21c68_5bce2645eb85bc989c780f70d4ee8d84e9b3ee4f/playlist.m3u8
+https://drive.google.com/file/d/1JKpy1_2HOoPNyR17qgahVhr7poQkplJX/view?usp=sharing
